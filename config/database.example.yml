@@ -3,6 +3,4 @@ development:
   encoding: unicode
   database: blabber_development
   host: localhost
-  username: postgres
-  password: abc
   pool: 5
